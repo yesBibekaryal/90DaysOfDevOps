@@ -1,0 +1,1 @@
+This is new readme lets create challenge through jira project manager
