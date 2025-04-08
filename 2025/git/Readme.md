@@ -1,1 +1,1 @@
-Testing purpose for Challenge on Git
+This is new readme lets create challenge through jira project manager
